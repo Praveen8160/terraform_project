@@ -1,0 +1,5 @@
+#1 first connect or configure  your cloud provide in cli
+#2 create terraform script and write script (main.tf)
+#3 now initialize the terraform (terraform init)
+#4 after that plan or dry run you terraform (terraform apply)
+#5 after all now apply the terraform (terraform apply)
